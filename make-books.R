@@ -170,9 +170,9 @@ modify_one <- function(filename, all_map, dic) {
   }
 
   other_language <- if (is_english) {
-    "Version française 👋"
+    "Version française 🇫🇷"
   } else {
-    "English version 👋"
+    "English version 🇬🇧 "
   }
 
   xml2::xml_add_child(

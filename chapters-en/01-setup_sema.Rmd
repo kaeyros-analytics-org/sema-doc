@@ -1,0 +1,158 @@
+
+
+# Link your WhatsApp Business account to Sema               
+
+In this article we explain what a WhatsApp Business account is and how to link it to your Sema account.
+
+## What is a WhatsApp Business account? {-}
+
+A WhatsApp Business account is a WhatsApp account designed specifically for your business , as opposed to the traditional WhatsApp account you probably use with friends and colleagues.
+
+You can manage your WhatsApp Business account from the [WhatsApp Business Manager](https://business.facebook.com/) , which allows you to access your WhatsApp Business account information, settings, notifications, messages and phone numbers.
+
+![Statistiques WhatsApp Business Manager](www/stat.png){width=100%}
+
+## Link your WhatsApp Business account to Sema {-}
+
+With in-app registration, you can log in to your Facebook and WhatsApp Business accounts. All these steps are necessary to link your WhatsApp Business account to Sema
+
+
+## Before you start {-}
+
+* **Make sure you have:**
+
+  ☑️ A new valid phone number that is not linked to your personal or work WhatsApp accounts. This will allow us to send you a verification code.
+  
+  ☑️ The company name and address of your company.
+  
+  ☑️ Your company's official website or the link of your social network. The URL must contain your professional domain.
+  
+  ☑️ Your WhatsApp Business account name as you want it to appear. Make sure you follow the [WhatsApp Business display name guidelines](https://www.facebook.com/business/help/757569725593362). If your name is rejected by Facebook, you will not be allowed to have the green tick.
+  
+Now that you have everything you need, learn how to link your WhatsApp Business account to Sema with our three-step guide below or watch our dedicated video: 
+
+<video width="100%" controls autoplay muted>
+  <source src="www/onboarding sema app.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
+
+
+### Access the configuration of your WhatsApp Business account in Sema {-}
+
+You can link your WhatsApp Business account to Brevo using the [platform Sema](http://sem-a.com/) :
+
+
+```
+💡 Good to know:
+
+Once your WhatsApp Business account is linked to Sema, you will be able
+to use WhatsApp in *Bulk message* to create WhatsApp marketing messages
+and Chatbot to receive and send WhatsApp messages to your contacts."
+
+```
+
+1. Go to [sem-a.com](https://sem-a.com)
+
+2. Click **Login** to connect on our App
+
+* If you already have an account with us 
+
+  - Enter your credentials (**login and password**)
+  
+* If you do not yet have an account with us
+
+  - Click **Sign Up**
+  
+  - Enter your informations (**Shop Name + Your email + Phone Number + Password + Confirm Password **)
+  
+  - Accept our Term and Privacy Policy and Cookies Policy.
+  
+3. Setup your account: click **Validate account**.
+
+4. Make sure you read and understand the three prerequisites for linking your WhatsApp Business account to Sema and click **Continue**.
+
+![](www/prerequisites.png){width=100%}
+
+The **Connect with Facebook** page opens ⬇️. 
+
+
+### Log in to your Facebook account or create one {-}
+
+To create your WhatsApp Business account and synchronize it with Sema, you need a Facebook account. Thanks to the integrated registration, you can log in to your Facebook account or create one directly in Sema:
+
+* On the **Connect with Facebook** page :
+
+  - If you already have a Facebook account, enter your credentials and click **Continue** . Then click **Continue as…** 
+  
+![](www/log.png){width=100%}
+
+  - If you don't have a Facebook account, click **Create Account** and follow the in-app signup steps to create an account.
+  
+```
+❗️ Important 
+
+If you need to create a Facebook account, you will haveto wait 1 hour to proceed
+to the next steps. After an hour, go back to  Login > Setup your account >
+continue. click Sign in with Facebook and enter your Facebook credentials.
+Once connected, follow the following instructions.
+
+```
+
+### Connect your Facebook and WhatsApp Business accounts to Sema {-}
+
+Follow the in-app registration steps to create or connect your Facebook and WhatsApp Business accounts to Sema:
+
+1. Still from the **Sign in with Facebook** page, click **To start up** to accept the WhatsApp and Facebook terms and conditions. {-}
+
+![](www/step2.png){width=100%}
+
+2. **Create your Meta business accounts**
+
+If you already have a Facebook business account, your information will be populated automatically. Select your Facebook business account from the list or create a new one directly using the integrated registration. Click **Continue**.
+
+* **Select a business account**
+
+<video width="100%" controls autoplay muted>
+  <source src="www/selectBusiness.mp4" type="video/mp4">
+ 
+</video>
+
+
+* **Create a professional account**
+
+<video width="100%" controls autoplay muted>
+  <source src="www/newBusiness.mp4" type="video/mp4">
+ 
+</video>
+
+
+3. **Create your WhatsApp Business profile**
+
+If you already have a WhatsApp Business profile, your information will be populated automatically. Select your WhatsApp Business profile from the list or create a new one directly using the in-app registration. Click **Continue**.
+
+* **Select a WhatsApp Business profile**
+
+![](www/selectNumber.png){width=100%}
+
+* **Create a WhatsApp Business profile**
+
+<video width="100%" controls autoplay muted>
+  <source src="www/newWaba.mp4" type="video/mp4">
+ 
+</video>
+
+4. **Verify a WhatsApp Business phone number**
+
+Choose a phone number for your WhatsApp Business account and verify it. You can :
+
+- Select the number used to create your Facebook account;
+
+- Register a new one;
+
+- or [migrate your phone number]() registered with the WhatsApp Messenger or WhatsApp Business application for use with the WhatsApp Business platform.
+
+5. Choose a verification method. You can receive a code by **SMS** or **voice call** . Click **Continue**, then enter the 6-digit verification code received via SMS or call and click **Verify**.
+
+![](www/addphone.jpg){width=50%}
+
+Your WhatsApp Business account is now associated with Sema! However, you still need [to have your WhatsApp Business account verified](./) by Facebook services to be able to send more than two hundred and fifty messages per day with the WhatsApp Campaigns app. 

@@ -1,3 +1,121 @@
-# About
+# Overview
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+
+## Welcome to Sema support page! {-}
+We understand that you may have questions or issues while using our product, and we are here to help.
+
+
+## Introduction {-}
+
+SEMA is an innovative solution for companies wishing to effectively manage their customer relationships on WhatsApp. Our solution offers a range of integrated tools that facilitate and improve communication with customers, by leveraging the popularity and user-friendliness of WhatsApp.
+
+With SEMA, companies can fully exploit the potential of WhatsApp to provide effective customer service, promote products and services, and build customer loyalty.
+
+
+## Benefits of Sema {-}
+
+Sema is an end-to-end WhatsApp API solution that helps businesses connect with their customers through WhatsApp. It allows businesses to manage and track their interactions with customers on WhatsApp, automate customer communication, and create custom workflows.
+
+With Sema, you can easily connect with your customers, resolve issues, and build relationships through WhatsApp.
+
+>💬 Chatbot
+>
+>💬 Bulk Message
+>
+>💬 Loyalty Program
+>
+>💬 Tombola Promotion
+>
+>💬 Analysis Dashboard
+>
+>💬 Chatbot Builder
+>
+>💬 Bulk Message Builder
+>
+>💬 Loyalty Program Builder
+>
+>💬 Tombola Builder
+>
+>💬 customer service
+
+
+## Sema Plans and Pricing {-}
+
+* **Sema offers 3 plans - Growth, Pro & Business**
+
+  - On each plan, you get certain number of free chatbot sessions per month.
+
+  - More details about our pricing plans can be found here: [Sema Pricing Plans](https://www.example.com)
+
+* **Sema charges on a Pay Per Conversation basis**
+
+  - Each month, the first 1,000 Service Conversations are free of charge. This is updated on the first day of each calendar month.
+
+  - Your Sema account is a pre-paid model. This means you will need to top-up credits in your account to send messages. To learn more, check this out: [How to top-up WATI credits?](https://www.example.com)
+
+
+## Getting started with Sema {-}
+
+Before you begin setting up your Sema account, you should be aware of some prerequisites such as limitations with WhatsApp Business APIs. Read more [here](https://www.example.com)!
+
+- **Account Setup:** This is the process of creating an account to use WhatsApp API for businesses. Whereas Facebook Business Verification is required to help ensure that only legitimate and authentic businesses can advertise on the platform. This helps to maintain the integrity of the platform and protect users from scams or fraudulent activity. To learn more, check this out: [Why is Facebook Business Verification required](facebook-business-verification.html)
+
+- **Display Name:** With your Sema Account, you can set the display name for your business account. This is the name that will be shown to other users when they receive messages from your business. It is important to choose a display name that accurately represents your business and helps users identify who they are communicating with. To learn more, check this out: [Guidelines to choose your Display Name](https://www.example.com)
+
+- **Phone Number:** You must have a phone number to create a Sema account. The phone number should not be linked to any other personal Whatsapp account or Whatsapp business app, and must be capable of receiving calls or SMS.
+
+- **Meta Commerce Policy:** WhatsApp has established specific standards for organizations that use WhatsApp Business API. These standards define the categories of businesses that can utilize the service and the types of content that can be sent via the service. Businesses that participate in unlawful or fraudulent activities, such as spamming or phishing, will be rejected by WhatsApp. It may also prohibit the operation of enterprises that promote violence, discrimination, or hate speech. To learn more, check this out: [What kind of business will be rejected by WhatsApp](https://www.example.com)
+
+
+## Sema and its features {-}
+
+**1. Chatbot:**
+
+A chatbot is a service that enables a customer and a company to chat on WhatsApp via a private channel. In the chat, the company is represented by a robot that automatically responds to the customer's needs, without the customer realizing that they are talking to a robot. The discussion usually focuses on the customer's order, but a company manager can also take part to guide the customer.
+
+**2. Bulk Message:**
+
+The bulk message can be advertised on a large scale to thousands of people. The advertisement can relate to an upcoming event, a discount on product prices, a gift given after a purchase with achieved points, a new product arrival, etc. After the advertising campaign with the bulk message, you receive feedback from customers on whether they liked it or not. If the customer replies to the publication, the bulk message automatically triggers a discussion between the customer and the company's chatbot.
+
+**3. Loyalty Program:**
+
+Loyalty Program helps build customer loyalty through rewards. Loyalty Program counts the number of times a customer has purchased your products and rewards them based on this number and the products they have purchased. After a purchase, the customer scans a QR code. This scan saves the number of times the customer has made purchases, and rewards the customer as soon as he or she has reached the number of purchases required for the reward.
+
+**4. Tombola Promotion:**
+
+The tombola helps build customer loyalty through a game of chance. Customers know that for every purchase they make, they have the chance to win another product by taking part in a raffle. After making a purchase, the customer scans a QR code that draws a random number from among the products up for grabs. The customer may win nothing and be encouraged to buy another product to try a second time.
+
+**5. Analysis Dashboard:**
+
+The Analysis Dashboard is an interface that lets you visualize your business statistics and see whether you're progressing or regressing. Thanks to the Analysis Dashboard, you'll know which service to improve and how to improve it.
+
+
+**6. Chatbot Builder:**
+
+The Chatbot Builder is a free form that allows you to build a questionnaire and answer proposals if they exist. This questionnaire is executed by the chatbot when a customer sends a message to the company.
+
+**7. Bulk Message Builder:**
+
+The Bulk Message Builder is a form for editing bulk messages. This form is used to record the advertising image and the text to be read by customers.
+
+**8. Loyalty Program Builder:**
+
+The Loyalty Program Builder is a form for editing loyalty programs. A program contains the products to be won and the number of points per product that the customer must accumulate to win.
+
+**9. Tombola Builder:**
+
+The Tombola Builder is a form for editing tombola programs. A tombola contains the products that can be won and any empty products that show the customer that he hasn't won.
+
+**10. customer service:**
+
+we are close to our client.
+
+
+## Sema Integrations {-}
+
+Integration is the process of connecting your Sema account with other services in order to automate messaging and create a more efficient workflow.
+
+ - **Calendly:** Sema allows businesses to integrate their WhatsApp account with Calendly, enabling them to easily schedule and confirm appointments with customers. Businesses can also streamline their scheduling process, reduce no-shows and improve the customer experience by providing a simple and convenient way to schedule appointments through WhatsApp. To learn more about **Calendly Integration**
+
+
+We hope that these resources will help you get the most out of Sema If you have any further questions or need additional assistance, don't hesitate to reach out to us.

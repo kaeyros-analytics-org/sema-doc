@@ -4,5 +4,5 @@ bookdown::bs4_book:
   theme:
     primary: "#096B72"
   repo:
-    base: https://github.com/maelle/multilingual-book
-    branch: main
+    base: https://github.com/kaeyros-analytics/dba_frontend
+    # branch: main
