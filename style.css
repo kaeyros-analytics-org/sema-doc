@@ -12,3 +12,14 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+#book-source{
+  display: none;
+}
+
+#book-edit{
+  display: none;
+}
+#book-repo{
+  display: none;
+}

@@ -52,7 +52,7 @@ fs::file_delete(english_index_file)
 
 # Build French book ----------------------
 french_specific_index <- list(
-  title = "Exemple de livre",
+  title = "Documentation Sema",
   description = "Exemple minimal, blablabla"
 )
 french_index_file <- "index.Rmd"
@@ -172,7 +172,7 @@ modify_one <- function(filename, all_map, dic) {
   other_language <- if (is_english) {
     "Version française 🇫🇷"
   } else {
-    "English version 🇬🇧 "
+    "English version 🇬🇧"
   }
 
   xml2::xml_add_child(
