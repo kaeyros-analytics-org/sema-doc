@@ -1,0 +1,95 @@
+# Vérifier votre compte WhatsApp Business
+
+
+Dans cet article, nous expliquons comment vérifier votre compte WhatsApp Business pour vous permettre d’envoyer des campagnes WhatsApp à un grand nombre de clients.
+
+
+## Avant de commencer
+
+
+* Liez votre compte WhatsApp Business à Sema. Pour en savoir plus, consultez notre. [article dédié]().
+* Vous devez être administrateur du compte [WhatsApp Business Manager](https://business.facebook.com/) pour vérifier votre entreprise.
+* Numérisez un document professionnel indiquant la dénomination sociale de votre entreprise afin de vérifier celle-ci. Si votre entreprise n’est pas répertoriée à l’étape **Sélectionnez vos entreprises** lors du processus de vérification, vous devrez également numériser des documents d'entreprise justifiant de votre adresse professionnelle et/ou de votre numéro de téléphone. Pour en savoir plus, consultez la [documentation officielle de Facebook](https://business.facebook.com/business/help/159334372093366?__tn__=%2BR).
+
+
+### Quels types de documents sont acceptés ? {-}
+
+- Certificat de formation ou de constitution (ex. : certificat de TPS) 
+
+- Statuts constitutifs
+
+- Licence et permis d'exploitation
+
+- Immatriculation fiscale de l'entreprise
+
+- Relevés de compte de l'entreprise
+
+- Rapports de crédit de l'entreprise
+
+- Factures de service 
+
+- Carte de numéro de compte permanent
+
+- Certificat d'établissement commercial
+
+* Si vos documents commerciaux justificatifs ne sont pas dans l’une des langues prises en charge par Facebook, utilisez des traductions en anglais avec les cachets officiels d’une agence de traduction
+
+
+## Vérifier votre compte WhatsApp Business
+
+Une fois que vous avez numérisé tous les documents officiels requis :
+
+1. Accédez à votre compte [WhatsApp Business Manager](https://business.facebook.com/) et allez dans la section [Paramètres d'entreprise > Centre de sécurité](https://business.facebook.com/settings/security).
+
+2. Dans la section **Vérification de l’entreprise**, cliquez sur **Démarrer la vérification**. 
+
+![](www/wa_security-center_EN-US.png){width=100%}
+
+
+3. Sélectionnez un pays
+
+Sélectionnez le pays dans lequel votre organisation est enregistrée.
+
+![](www/wa_select-country_EN-US.jpg){width=100%}
+
+
+4. Ajoutez des détails sur l’organisation
+
+Entrez la dénomination sociale de votre entreprise, son adresse, votre numéro de téléphone professionnel ainsi que votre site Web. Certains champs peuvent être préremplis. Assurez-vous que les informations que vous saisissez sont les mêmes que celles figurant sur vos pièces justificatives, puis cliquez sur **Suivant.** 
+
+![](www/wa_organization-info_EN-US.jpg){width=100%}
+
+
+5. Sélectionnez une méthode de contact
+
+Choisissez une méthode de vérification pour confirmer que vous êtes la personne qui demande la vérification. Vous pouvez recevoir un code par **email, appel téléphonique** ou **SMS**, ou effectuer une **vérification de domaine**.
+
+![](www/wa_select-contact-method_EN-US.jpg){width=100%}
+
+
+	```
+❗️ Important
+Assurez-vous de saisir une adresse email ou un numéro de téléphone auquel vous avez accès immédiatement. 
+```
+
+6. Ajoutez des pièces justificatives
+
+Soumettez des documents justificatifs tels que le certificat de constitution, la licence d’entreprise, le relevé de compte bancaire d’entreprise, etc. afin de vérifier la dénomination sociale devotre entreprise et/ou son adresse et numéro de téléphone, puis cliquez sur **Suivant.**
+
+![](www/wa_documents-proof_EN-US.jpg){width=100%}
+
+
+7. Confirmez la méthode de contact
+
+Confirmez l'adresse email ou le numéro de téléphone que vous avez soumis pour vérifier votre entreprise. 
+
+![](www/wa_confirm-phone-number_EN-US.jpg){width=100%}
+
+
+8. Saisissez le code de confirmation
+
+Saisissez le code de vérification que vous avez reçu par email, SMS ou appel, puis cliquez sur **Suivant.**
+
+![](www/wa_enter-confirmation-code_EN-US.jpg){width=100%}
+
+

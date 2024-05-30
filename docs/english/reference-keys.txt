@@ -1,10 +1,5 @@
 overview
 link-your-whatsapp-business-account-to-sema
-green-tick-verification-for-your-business
-variables
-types
-operators
 facebook-business-verification
 before-you-start-1
-installation-of-r
-installation-of-rstudio
+green-tick-verification-for-your-business
