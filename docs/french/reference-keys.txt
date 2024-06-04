@@ -5,8 +5,8 @@ avant-de-commencer-1
 vérifier-votre-compte-whatsapp-business-1
 vérification-par-coche-verte-pour-votre-entreprise
 comment-faire-une-demande-de-vérification-par-coche-verte-par-vous-même-sans-aucun-frais
-sema-et-ses-fonctionalités
-template-de-message
-avant-de-commencer-2
-créer-un-template-whatsapp
-sema-et-ses-fonctionalités-1
+créé-un-template-whatsapp
+envoi-de-modèle-de-message-à-un-numero
+envoi-de-modèle-de-message-à-une-liste-de-personne
+historique-de-template-de-message
+gérer-les-modèles-de-messages
