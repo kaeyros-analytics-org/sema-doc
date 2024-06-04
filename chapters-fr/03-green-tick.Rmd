@@ -11,7 +11,7 @@ Consultez notre guide ci-dessous.
 
 ![](www/green_tick.png){width=100%}
 
-## Conditions préalables à l’approbation de la coche verte : {-}
+## Conditions préalables à l’approbation de la coche verte: {-}
 
 - Vous devez utiliser un compte professionnel approuvé par l'API WhatsApp
 
@@ -23,7 +23,7 @@ Consultez notre guide ci-dessous.
 
 - Doit être une entreprise (les particuliers ne sont pas autorisés pour le moment)
 
-- Il est recommandé que vous soyez au  niveau 1 (1 000 messages/24 heures) ou au-dessus de la limite de messagerie.
+- Il est recommandé que vous soyez au  niveau 2 (1 000 messages/24 heures) ou au-dessus de la limite de messagerie.
 
 - Doit être une marque notable et réputée avec un bon nombre d'articles de presse présentés sur Google Actualités.
 

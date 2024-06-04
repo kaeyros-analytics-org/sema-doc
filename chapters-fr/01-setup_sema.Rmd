@@ -5,7 +5,7 @@ Dans cet article, nous expliquons ce qu'est un compte WhatsApp Business et comme
 
 ## Qu'est-ce qu'un compte WhatsApp Business ? {-}
 
-Un compte WhatsApp Business est un compte WhatsApp conçu spécifiquement pour votre entreprise, par opposition au compte WhatsApp traditionnel que vous utilisez probablement avec vos amis et collègues.
+Un compte WhatsApp Plateform est un compte WhatsApp conçu spécifiquement pour votre entreprise, par opposition au compte WhatsApp business ou messenger traditionnel que vous utilisez probablement avec vos amis et collègues.
 
 Vous pouvez gérer votre compte WhatsApp Business à partir de [WhatsApp Business Manager](https://business.facebook.com/) , qui vous permet d'accéder aux informations, paramètres, notifications, messages et numéros de téléphone de votre compte WhatsApp Business.
 
@@ -154,4 +154,17 @@ Choisissez un numéro de téléphone pour votre compte WhatsApp Business et vér
 
 ![](www/addphone.jpg){width=50%}
 
-Votre compte WhatsApp Business est désormais associé à Sema ! Cependant, vous devez toujours [faire vérifier votre compte WhatsApp Business](./) par les services Facebook pour pouvoir envoyer plus de deux cent cinquante messages par jour avec l'application WhatsApp Campaigns.
+Votre compte WhatsApp Business est désormais associé à Sema ! Cependant, vous devez toujours [faire vérifier votre compte WhatsApp Business](/vérifier-votre-compte-whatsapp-business.html) par les services Facebook pour pouvoir envoyer plus de deux cent cinquante messages par jour avec l'application WhatsApp Campaigns.
+
+
+## Post-intégration {-}
+
+- Les entreprises ne peuvent envoyer des messages aux clients qu'après qu'un client a lancé un message. Ces messages sont appelés messages de session et peuvent être envoyés par les entreprises aux clients uniquement jusqu'à 24 heures après l'envoi du message par le client.
+- Après 24 heures, la session expire et les entreprises ne peuvent envoyer que des « modèles de messages » à leurs utilisateurs. Les messages modèles doivent être pré-approuvés par WhatsApp et peuvent être créés à partir du tableau de bord Sema.
+
+- Tous les modèles de messages doivent respecter les politiques commerciales de WhatsApp.
+- La fonctionnalité du groupe WhatsApp n'est pas prise en charge.
+- Les appels vocaux ou vidéo WhatsApp ne sont pas pris en charge. Les notes vocales sont prises en charge.
+- La fonctionnalité de transfert de messages WhatsApp n'est pas prise en charge
+- Les applications WhatsApp ne peuvent pas être utilisées avec le même numéro si vous utilisez les API WhatsApp Business.
+- Les messages envoyés ne peuvent pas être supprimés car l'API de WhatsApp ne prend actuellement pas en charge la suppression d'un message envoyé.

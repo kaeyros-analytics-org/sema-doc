@@ -7,7 +7,7 @@ Dans cet article, nous expliquons comment vérifier votre compte WhatsApp Busine
 ## Avant de commencer
 
 
-* Liez votre compte WhatsApp Business à Sema. Pour en savoir plus, consultez notre. [article dédié]().
+* Liez votre compte WhatsApp Business à Sema. Pour en savoir plus, consultez notre. [article dédié](/liez-votre-compte-whatsapp-business-à-sema.html).
 * Vous devez être administrateur du compte [WhatsApp Business Manager](https://business.facebook.com/) pour vérifier votre entreprise.
 * Numérisez un document professionnel indiquant la dénomination sociale de votre entreprise afin de vérifier celle-ci. Si votre entreprise n’est pas répertoriée à l’étape **Sélectionnez vos entreprises** lors du processus de vérification, vous devrez également numériser des documents d'entreprise justifiant de votre adresse professionnelle et/ou de votre numéro de téléphone. Pour en savoir plus, consultez la [documentation officielle de Facebook](https://business.facebook.com/business/help/159334372093366?__tn__=%2BR).
 

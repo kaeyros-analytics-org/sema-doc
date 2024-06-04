@@ -9,7 +9,7 @@ common_index <- list(
   site = "bookdown::bookdown_site",
   documentclass = "book",
   bibliography  = c("book.bib", "packages.bib"),
-  author = "Some Person",
+  author = "Thierry Monthe",
   `biblio-style` = "apalike",
   csl = "chicago-fullnote-bibliography.csl"
 )
@@ -23,7 +23,7 @@ common_config <- list(
 
 # Build English book ----------------------
 english_specific_index <- list(
-  title = "Book Example",
+  title = "Sema Documentation",
   description = "Minimal example, blablabla"
 )
 english_index_file <- "index.Rmd"

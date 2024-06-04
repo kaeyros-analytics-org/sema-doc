@@ -5,15 +5,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapitre 5 Sema et ses fonctionalités | Documentation Sema</title>
-<meta name="author" content="Some Person">
-<meta name="description" content="Chatbot  Bulk message  Scenario Builder">
+<meta name="author" content="Thierry Monthe">
+<meta name="description" content="5.1 Template de message Ce document explique comment utiliser Sema pour gérer les templates de message WhatsApp  Gestionnaire de modèles Le gestionnaire de modèles prend en charge les modèles de...">
 <meta name="generator" content="bookdown 0.39 with bs4_book()">
 <meta property="og:title" content="Chapitre 5 Sema et ses fonctionalités | Documentation Sema">
 <meta property="og:type" content="book">
-<meta property="og:description" content="Chatbot  Bulk message  Scenario Builder">
+<meta property="og:description" content="5.1 Template de message Ce document explique comment utiliser Sema pour gérer les templates de message WhatsApp  Gestionnaire de modèles Le gestionnaire de modèles prend en charge les modèles de...">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Chapitre 5 Sema et ses fonctionalités | Documentation Sema">
-<meta name="twitter:description" content="Chatbot  Bulk message  Scenario Builder">
+<meta name="twitter:description" content="5.1 Template de message Ce document explique comment utiliser Sema pour gérer les templates de message WhatsApp  Gestionnaire de modèles Le gestionnaire de modèles prend en charge les modèles de...">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.7.0/transition.js"></script><script src="libs/bs3compat-0.7.0/tabs.js"></script><script src="libs/bs3compat-0.7.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -48,6 +48,7 @@
 <li><a class="" href="v%C3%A9rifier-votre-compte-whatsapp-business.html"><span class="header-section-number">3</span> Vérifier votre compte WhatsApp Business</a></li>
 <li><a class="" href="v%C3%A9rification-par-coche-verte-pour-votre-entreprise.html"><span class="header-section-number">4</span> Vérification par coche verte pour votre entreprise</a></li>
 <li><a class="active" href="sema-et-ses-fonctionalit%C3%A9s.html"><span class="header-section-number">5</span> Sema et ses fonctionalités</a></li>
+<li><a class="" href="sema-et-ses-fonctionalit%C3%A9s-1.html"><span class="header-section-number">6</span> Sema et ses fonctionalités</a></li>
 </ul>
 <div class="book-extra">
           <p><a href="../english/sema-and-its-features-1.html">English version 🇬🇧</a></p>
@@ -59,30 +60,118 @@
 <h1>
 <span class="header-section-number">Chapitre 5</span> Sema et ses fonctionalités<a class="anchor" aria-label="anchor" href="#sema-et-ses-fonctionalit%C3%A9s"><i class="fas fa-link"></i></a>
 </h1>
-<div id="chatbot" class="section level2 unnumbered">
-<h2>Chatbot<a class="anchor" aria-label="anchor" href="#chatbot"><i class="fas fa-link"></i></a>
+<div id="template-de-message" class="section level2" number="5.1">
+<h2>
+<span class="header-section-number">5.1</span> Template de message<a class="anchor" aria-label="anchor" href="#template-de-message"><i class="fas fa-link"></i></a>
 </h2>
+<p>Ce document explique comment utiliser Sema pour gérer les templates de message WhatsApp</p>
 </div>
-<div id="bulk-message" class="section level2 unnumbered">
-<h2>Bulk message<a class="anchor" aria-label="anchor" href="#bulk-message"><i class="fas fa-link"></i></a>
+<div id="gestionnaire-de-modèles" class="section level2 unnumbered">
+<h2>Gestionnaire de modèles<a class="anchor" aria-label="anchor" href="#gestionnaire-de-mod%C3%A8les"><i class="fas fa-link"></i></a>
 </h2>
+<p>Le gestionnaire de modèles prend en charge les modèles de texte et de médias et possède les fonctions suivantes :</p>
+<ul>
+<li><p>Créer et prévisualiser de nouveaux modèles de messages</p></li>
+<li><p>Surveillez l’état d’approbation actuel de tous vos modèles</p></li>
+<li><p>Copier et supprimer des modèles</p></li>
+<li><p>Ajouter différents modèles</p></li>
+<li><p>Modifier les modèles</p></li>
+</ul>
 </div>
-<div id="scenario-builder" class="section level2 unnumbered">
-<h2>Scenario Builder<a class="anchor" aria-label="anchor" href="#scenario-builder"><i class="fas fa-link"></i></a>
+<div id="quelle-est-la-différence-entre-un-template-whatsapp-et-une-campagne-whatsapp" class="section level2 unnumbered">
+<h2>Quelle est la différence entre un template WhatsApp et une campagne WhatsApp ?<a class="anchor" aria-label="anchor" href="#quelle-est-la-diff%C3%A9rence-entre-un-template-whatsapp-et-une-campagne-whatsapp"><i class="fas fa-link"></i></a>
 </h2>
+<p><strong>Un template WhatsApp</strong> est un message WhatsApp pré-approuvé et réutilisable qui simplifie votre flux de communication. Au lieu de créer un nouveau message chaque fois, vous pouvez utiliser un seul message pour vos campagnes WhatsApp ou vos automatisations. Par exemple, les templates WhatsApp peuvent être utilisés pour envoyer des messages de bienvenue, d’anniversaire ou de feedback, mais également des communications ponctuelles et percutantes telles que des offres exclusives pour le Black Friday ou des soldes d’été alléchants.</p>
+<p>Les templates WhatsApp peuvent être personnalisés avec des variables qui s’adaptent automatiquement aux attributs du contact tels que le prénom, l’adresse email ou la date d’anniversaire.</p>
+<p><strong>Une campagne WhatsApp</strong> consiste à envoyer <strong>un template WhatsApp</strong> à un groupe de destinataires. Vous décidez qui reçoit votre template WhatsApp, quand il le reçoit et le numéro de téléphone depuis lequel il est envoyé.</p>
+<p>Lorsque vous créez une campagne WhatsApp à partir de Sema et que vous choisissez de créer le contenu du message en partant de zéro, celui-ci est automatiquement transformé en template WhatsApp pour utilisation ultérieure. Les templates WhatsApp nécessitent l’approbation de Meta afin d’éviter les spams et garantir une communication de qualité.</p>
+</div>
+<div id="avant-de-commencer-2" class="section level2" number="5.2">
+<h2>
+<span class="header-section-number">5.2</span> Avant de commencer<a class="anchor" aria-label="anchor" href="#avant-de-commencer-2"><i class="fas fa-link"></i></a>
+</h2>
+<ul>
+<li><p>Assurez-vous d’avoir lié votre compte WhatsApp Business à Sema. Pour en savoir plus, consultez notre article dédié <a href="/liez-votre-compte-whatsapp-business-%C3%A0-sema.html">Lier votre compte WhatsApp Business à Sema</a>.</p></li>
+<li><p>Afin de pouvoir envoyer vos campagnes WhatsApp en dépassant la limite d’envoi quotidienne, assurez-vous d’avoir vérifié votre compte WhatsApp Business. Pour en savoir plus, consultez notre article dédié <a href="/v%C3%A9rifier-votre-compte-whatsapp-business.html">Faire vérifier votre compte WhatsApp Business</a>.
+Pour découvrir les meilleures pratiques de création de messages WhatsApp, consultez notre article dédié <a href="">Meilleures pratiques pour les messages WhatsApp</a>.</p></li>
+</ul>
+<div id="créer-un-template-whatsapp" class="section level3" number="5.2.1">
+<h3>
+<span class="header-section-number">5.2.1</span> Créer un template WhatsApp<a class="anchor" aria-label="anchor" href="#cr%C3%A9er-un-template-whatsapp"><i class="fas fa-link"></i></a>
+</h3>
+<p>Pour créer un modèle de message, cliquez sur le <code>Create Template</code>, bouton bleu de la page Bulk Messages.</p>
+<div class="inline-figure"><img src="www/btn_create_template.png" style="width:100.0%"></div>
+<p>Lors de la création de votre modèle, vous devrez inclure les informations suivantes :</p>
+<ul>
+<li>
+<p>Nom du modèle</p>
+<ul>
+<li>Le nom ne peut contenir que des caractères alphanumériques minuscules et des traits de soulignement ( _ ).</li>
+</ul>
+</li>
+<li>
+<p>Entête du modèle
+L’en-tête est facultatif et sert de titre ou d’en-tête de votre modèle. Il prend en charge les éléments suivants :</p>
+<ul>
+<li><p>Texte</p></li>
+<li><p>Image</p></li>
+<li><p>Document</p></li>
+<li><p>Vidéo</p></li>
+</ul>
+</li>
+<li>
+<p>Contenu du template</p>
+<ul>
+<li>Le corps doit contenir le texte le plus important de votre modèle. Seul le texte est pris en charge.</li>
+</ul>
+</li>
+<li>
+<p>Signature du modèle (Bas de page)</p>
+<ul>
+<li>Le pied de page ne prend en charge que le texte et peut être utilisé pour fournir des informations moins pertinentes dans votre modèle de message.</li>
+</ul>
+</li>
+<li>
+<p>Bouton</p>
+<p>Le bouton ajoute de l’interactivité à vos modèles. Il existe deux types principaux.</p>
+<ul>
+<li>
+<p>Bouton de réponse rapide</p>
+<ul>
+<li><p>Utilisé pour obtenir des réponses rapides de votre client</p></li>
+<li><p>Max 3 boutons de réponse rapide par modèle</p></li>
+</ul>
+</li>
+<li>
+<p>Bouton d’appel à l’action</p>
+<ul>
+<li><p>Utilisé pour envoyer votre client vers un site Web ou appeler un numéro de téléphone</p></li>
+<li><p>Max une URL et un numéro de téléphone par modèle</p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<div class="float">
+<img src="www/create_template.png" style="width:100.0%" alt="Interface de création de template de message dans Sema"><div class="figcaption">Interface de création de template de message dans Sema</div>
+</div>
 
+</div>
 </div>
 </div>
   <div class="chapter-nav">
 <div class="prev"><a href="v%C3%A9rification-par-coche-verte-pour-votre-entreprise.html"><span class="header-section-number">4</span> Vérification par coche verte pour votre entreprise</a></div>
-<div class="empty"></div>
+<div class="next"><a href="sema-et-ses-fonctionalit%C3%A9s-1.html"><span class="header-section-number">6</span> Sema et ses fonctionalités</a></div>
 </div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
     <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
       <ul class="nav navbar-nav">
 <li><a class="nav-link" href="#sema-et-ses-fonctionalit%C3%A9s"><span class="header-section-number">5</span> Sema et ses fonctionalités</a></li>
-<li><a class="nav-link" href="#chatbot">Chatbot</a></li>
-<li><a class="nav-link" href="#bulk-message">Bulk message</a></li>
-<li><a class="nav-link" href="#scenario-builder">Scenario Builder</a></li>
+<li><a class="nav-link" href="#template-de-message"><span class="header-section-number">5.1</span> Template de message</a></li>
+<li><a class="nav-link" href="#gestionnaire-de-mod%C3%A8les">Gestionnaire de modèles</a></li>
+<li><a class="nav-link" href="#quelle-est-la-diff%C3%A9rence-entre-un-template-whatsapp-et-une-campagne-whatsapp">Quelle est la différence entre un template WhatsApp et une campagne WhatsApp ?</a></li>
+<li>
+<a class="nav-link" href="#avant-de-commencer-2"><span class="header-section-number">5.2</span> Avant de commencer</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#cr%C3%A9er-un-template-whatsapp"><span class="header-section-number">5.2.1</span> Créer un template WhatsApp</a></li></ul>
+</li>
 </ul>
 <div class="book-extra">
         <ul class="list-unstyled">
@@ -99,7 +188,7 @@
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Documentation Sema</strong>" was written by Some Person. It was last built on 2024-05-30.</p>
+    <p>"<strong>Documentation Sema</strong>" was written by Thierry Monthe. It was last built on 2024-06-04.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
