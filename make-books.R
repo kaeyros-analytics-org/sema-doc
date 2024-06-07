@@ -24,7 +24,7 @@ common_config <- list(
 # Build English book ----------------------
 english_specific_index <- list(
   title = "Sema Documentation",
-  description = "Minimal example, blablabla"
+  description = "Support of Sema"
 )
 english_index_file <- "index.Rmd"
 writeLines(
@@ -53,7 +53,7 @@ fs::file_delete(english_index_file)
 # Build French book ----------------------
 french_specific_index <- list(
   title = "Documentation Sema",
-  description = "Exemple minimal, blablabla"
+  description = "support de Sema"
 )
 french_index_file <- "index.Rmd"
 writeLines(

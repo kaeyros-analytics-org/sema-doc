@@ -1,3 +1,61 @@
 
-# Chatbot {-}
+# Comment construire un chatbot sur Sema? {-}
+
+## Comment créer un nouveau chatbot ? {-}
+
+
+1. Accédez à votre tableau de bord Sema
+
+2. Cliquez sur **Chatbots** dans le menu à gauche
+
+3. Cliquez sur le bouton bleu qui dit **« Create scenario »**
+
+![](www/create_scenario.png){width=100%}
+
+4. Vous pouvez soit choisir un modèle si votre idée de chatbot est similaire en cliquant sur la section `Manage Scenario`.
+Cependant, si vous souhaitez repartir de zéro, vous pouvez également le faire dans la section `Create a scenario`.
+
+![](www/create_new.png){width=100%}
+
+
+## Comment construire un chatbot ? {-}
+
+Fondamentalement, nous aurons simplement besoin de **glisser-déposer**, de remplir les données et de cliquer sur `Save chatbot`. Vous pouvez suivre les étapes ci-dessous :
+
+1. Entrez le Nom du scenario dans l'espace `Nom du scenario`
+
+2. Entrez le mot clé qui activera votre scenario dans l'espace `Trigger Chatbot Keyword`
+
+3. Cliquez sur `Ask a question` au forum si vous souhaitez l'utiliser
+
+4. Cliquez sur `Send a message` sur le forum si vous souhaitez l'utiliser
+
+5. Cliquez sur `Set conditionnal` sur le tableau si vous souhaitez l'utiliser
+
+6. Cliquez sur le bouton **"<"** pour agrandir la carte (masquer les options du nœud)
+
+7. Suivez la séquence, c'est : zoomer, dézoomer, mettre au pourcentage normal, et au centre, verrouiller/déverrouiller le zoom avec la souris.
+
+8. Fenêtre flottante : vous aide à voir globalement le chatbot.
+
+9. Cliquez sur le bouton bleu `Save chatbot` pour enregistrer le chatbot
+
+![](www/scenario.png){width=100%}
+
+
+## Types de nœuds Chatbot {-}
+
+Il existe 3 types de nœuds de chatbot :
+
+1. **Envoyer un message =>** Sans réponse requise de la part des visiteurs
+
+
+
+```
+Le reste du contenu de cette documentation n'est pas encore disponible
+mais pour plus d'information, veillez nous contacter sur support@sem-a.com
+
+```
+
+
 
