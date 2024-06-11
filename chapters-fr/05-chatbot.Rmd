@@ -47,15 +47,11 @@ Fondamentalement, nous aurons simplement besoin de **glisser-déposer**, de remp
 
 Il existe 3 types de nœuds de chatbot :
 
-1. **Envoyer un message =>** Sans réponse requise de la part des visiteurs
+1. **Envoyer un message =>** 
+2. **Poser une question =>** 
+3. **Poser une condition =>** 
 
-
-
-```
-Le reste du contenu de cette documentation n'est pas encore disponible
-mais pour plus d'information, veillez nous contacter sur support@sem-a.com
-
-```
+![](www/flow_scenario.png){width=100%}
 
 
 
