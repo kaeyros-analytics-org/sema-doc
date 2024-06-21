@@ -1,8 +1,0 @@
-bookdown::bs4_book:
-  split_by: rmd
-  css: style.css
-  theme:
-    primary: "#096B72"
-  repo:
-    base: https://github.com/kaeyros-analytics/dba_frontend
-    # branch: main
