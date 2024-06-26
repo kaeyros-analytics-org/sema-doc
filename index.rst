@@ -64,4 +64,4 @@ Sema provides an intuitive user interface for companies and integrates seamlessl
 
 Thanks
 ----------
-Thank you for choosing our Online Research Platform. We are committed to supporting your academic and research endeavors.
+Thank you for choosing our comprehensive application designed to facilitate the marketing of your company's products and services through social networks. We are committed to supporting your marketing endeavors.
