@@ -1,57 +1,57 @@
 Overview
 ===============
 
-To become a customer and take advantage of the services offered by Sema, follow these steps:
+Pour devenir client et bénéficier des services offerts par Sema, suivez les étapes suivantes :
 
-Step 1: Create a Company Account in Sema
-------------------------------------------
+Étape 1 : Créer un compte d'entreprise dans Sema
+---------------------------------------------------
 
-    #. Sign Up:
+    #. S'inscrire :
         .. image:: /images/signup.png
         
-        * Visit the Sema website.
-        * Click on the "Sign Up" button.
-        * Fill in the required information such as company name, email, and password.
-        * Verify your email address through the verification link sent to your inbox.
+        * Visitez le site web du Sema.
+        * Cliquez sur le bouton "S'inscrire".
+        * Remplissez les informations requises telles que le nom de l'entreprise, l'adresse électronique et le mot de passe.
+        * Vérifiez votre adresse électronique à l'aide du lien de vérification envoyé dans votre boîte de réception.
 
-    #. Login:
+    #. Connexion :
         .. image:: /images/login.png
         
-        * After verifying your email, log in to your Sema account using your credentials.
+        * Après avoir vérifié votre adresse électronique, connectez-vous à votre compte Sema à l'aide de vos informations d'identification.
 
-Step 2: Link Your Facebook Account
-------------------------------------
+Étape 2 : Relier votre compte Facebook
+-----------------------------------------
 
     .. image:: /images/onboarding.png
 
-    #. Access Account Settings:
-        * Once logged in, navigate to the account settings.
-        * Look for the "Integrations" section.
+    #. Accéder aux paramètres du compte :
+        * Une fois connecté, accédez aux paramètres du compte.
+        * Recherchez la section "Intégrations".
 
-    #. Link Facebook Account:
-        * Click on the "Link Facebook Account" button.
-        * Follow the prompts to log in to your Facebook account and grant necessary permissions.
-        * Confirm the linking of your Facebook account to your Sema account.
+    #. Lier le compte Facebook :
+        * Cliquez sur le bouton "Lier le compte Facebook".
+        * Suivez les instructions pour vous connecter à votre compte Facebook et accorder les autorisations nécessaires.
+        * Confirmez la liaison entre votre compte Facebook et votre compte Sema.
 
-Step 3: Configure Sema Modules
---------------------------------
+Étape 3 : Configuration des modules Sema
+--------------------------------------------
 
     #. Bulk Message:
-        * Navigate to the Bulk Message module.
-        * Set up your first advertising campaign by creating a message and selecting the target audience.
-        * Schedule the message to be sent at the desired time.
+        * Naviguez jusqu'au module Bulk Message.
+        * Mettez en place votre première campagne publicitaire en créant un message et en sélectionnant le public cible.
+        * Programmer l'envoi du message à l'heure souhaitée.
 
-    #. Chatboot:
-        * Access the Chatboot module.
-        * Create interactive scenarios by defining the questions and responses that guide customers through the ordering process.
-        * Test the scenario to ensure it works smoothly.
+    #. Chatbot:
+        * Accéder au module Chatbot.
+        * Créez des scénarios interactifs en définissant les questions et les réponses qui guident les clients tout au long du processus de commande.
+        * Testez le scénario pour vous assurer qu'il fonctionne correctement.
 
     #. Loyalty Program:
-        * Go to the Loyalty Program module.
-        * Define the reward criteria such as the number of purchases required for a reward.
-        * Set up the Qr Code scanning process for tracking purchases.
+        * Accédez au module Loyalty Program.
+        * Définissez les critères de récompense tels que le nombre d'achats requis pour obtenir une récompense.
+        * Mettre en place le processus de lecture des codes Qr pour le suivi des achats.
 
     #. Tombola:
-        * Open the Tombola module.
-        * Configure the prize draw settings and the Qr Code scanning for purchase validation.
-        * Define the prizes and notify winners through WhatsApp or Telegram.
+        * Ouvrez le module Tombola.
+        * Configurez les paramètres du tirage au sort et la lecture du code Qr pour la validation des achats.
+        * Définissez les prix et informez les gagnants par WhatsApp ou Telegram.

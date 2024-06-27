@@ -16,7 +16,8 @@ author = 'Kaeyros Analytics GMBH'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinx.ext.autosectionlabel'
+    'sphinx.ext.autosectionlabel',
+    'recommonmark'
 ]
 
 templates_path = ['_templates']
@@ -32,3 +33,9 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_build_dir = os.environ.get('READTHEDOCS_OUTPUT', 'fr/build/html')
+
+def setup(app):
+    app.add_css_file('css/custom.css')
+
+html_favicon = 'images/favicon.ico'
+html_logo = 'images/logo.png'
