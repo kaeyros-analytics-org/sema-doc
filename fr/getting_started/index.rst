@@ -1,4 +1,4 @@
-Overview
+Aperçu général
 ===============
 
 Pour devenir client et bénéficier des services offerts par Sema, suivez les étapes suivantes :

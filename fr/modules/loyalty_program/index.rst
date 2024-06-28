@@ -1,10 +1,10 @@
 .. image:: /images/loyalty_program.png
 
-The Loyalty Program module is designed to reward loyal customers. Customers earn rewards after making a certain number of purchases, encouraging repeat business.
+Le module Programme de fidélité est conçu pour récompenser les clients fidèles. Les clients gagnent des récompenses après avoir effectué un certain nombre d'achats, ce qui encourage les clients à revenir.
 
-* Features:
-    * Set a required number of purchases for a reward.
-    * Track customer purchases via Qr Code scanning.
-    * Notify customers of their progress towards earning rewards.
-* Use Case:
-    * After each purchase, a customer scans a Qr Code using WhatsApp or Telegram. Once they reach the required number of purchases, they receive a reward, such as a discount or a free product.
+* Fonctionnalités :
+    * Fixer un nombre d'achats requis pour l'obtention d'une récompense.
+    * Suivre les achats des clients en scannant les codes Qr.
+    * Informer les clients de leur progression vers l'obtention de récompenses.
+* Cas d'utilisation :
+    * Après chaque achat, le client scanne un code Qr en utilisant WhatsApp ou Telegram. Lorsqu'il atteint le nombre d'achats requis, il reçoit une récompense, telle qu'une réduction ou un produit gratuit.

@@ -41,8 +41,8 @@ Step 3: Configure Sema Modules
         * Set up your first advertising campaign by creating a message and selecting the target audience.
         * Schedule the message to be sent at the desired time.
 
-    #. Chatboot:
-        * Access the Chatboot module.
+    #. Chatbot:
+        * Access the Chatbot module.
         * Create interactive scenarios by defining the questions and responses that guide customers through the ordering process.
         * Test the scenario to ensure it works smoothly.
 

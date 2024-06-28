@@ -1,9 +1,9 @@
 Live Chat Feature
 ====================
 
-Sema includes a Live Chat feature that allows companies to communicate directly with Sema administrators without leaving the platform. This feature ensures that companies can receive immediate support and assistance when needed.
+Sema comprend une fonction de chat en direct qui permet aux entreprises de communiquer directement avec les administrateurs de Sema sans quitter la plateforme. Cette fonction permet aux entreprises de bénéficier d'un soutien et d'une assistance immédiats en cas de besoin.
 
-* Features:
-    * Real-time communication with Sema support.
-    * Accessible directly from the Sema user interface.
-    * Immediate assistance for technical issues and queries.
+* Caractéristiques :
+    * Communication en temps réel avec le support Sema.
+    * Accessible directement à partir de l'interface utilisateur de Sema.
+    * Assistance immédiate pour les questions et problèmes techniques.

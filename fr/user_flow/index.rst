@@ -1,28 +1,28 @@
-For Companies
-===============
+Pour les entreprises
+=======================
 
-#. Accessing Sema:
-    * Log in to the Sema user interface.
-    * Choose the desired module (Bulk Message, Chatboot, Loyalty Program, or Tombola).
+#. Accéder à Sema :
+    * Connectez-vous à l'interface utilisateur de Sema.
+    * Choisissez le module souhaité (Bulk Message, Chatbot, Loyalty Program ou Tombola).
 
-#. Creating Campaigns:
-    * Use the Bulk Message module to create and schedule mass messages.
-    * Set up scenarios in the Chatboot module for automated customer interactions.
-    * Define reward criteria in the Loyalty Program module.
-    * Configure the Tombola module for prize draws.
+#. Création de campagnes :
+    * Le module Bulk Message permet de créer et de planifier des messages de masse.
+    * Configurez des scénarios dans le module Chatbot pour des interactions automatisées avec les clients.
+    * Définir les critères de récompense dans le module Programme de fidélisation.
+    * Configurer le module Tombola pour les tirages au sort.
 
-#. Monitoring and Reporting:
-    * Track the performance of campaigns through detailed analytics.
-    * Monitor customer interactions and order statuses.
-    * Adjust campaigns based on feedback and performance data.
+#. Suivi et rapports :
+    * Suivez les performances des campagnes grâce à des analyses détaillées.
+    * Contrôler les interactions avec les clients et l'état des commandes.
+    * Ajuster les campagnes en fonction du retour d'information et des données de performance.
 
-For WhatsApp and Telegram Users
-=================================
+Pour les utilisateurs de WhatsApp et Telegram
+=================================================
 
-#. Receiving Messages:
-    * Receive bulk messages from companies about promotions and events.
-    * Interact with Chatboot scenarios to explore products and place orders.
+#. Réception de messages :
+    * Recevoir des messages groupés de la part d'entreprises au sujet de promotions et d'événements.
+    * Interagir avec les scénarios de Chatbot pour explorer les produits et passer des commandes.
 
-#. Engaging with Loyalty and Tombola Programs:
-    * Scan Qr Codes after purchases to track loyalty points or enter Tombola draws.
-    * Receive notifications about rewards and prize winnings.
+#. S'engager dans des programmes de fidélisation et de tombola :
+    * Scannez les codes Qr après vos achats pour comptabiliser vos points de fidélité ou participer aux tirages au sort de la Tombola.
+    * Recevoir des notifications sur les récompenses et les gains.

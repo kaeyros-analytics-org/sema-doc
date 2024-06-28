@@ -1,10 +1,10 @@
 .. image:: /images/tombola.png
 
-The Tombola module offers customers a chance to win rewards after each purchase. This adds an element of excitement and encourages more frequent purchases.
+Le module Tombola offre aux clients la possibilité de gagner des récompenses après chaque achat. Cela ajoute un élément d'excitation et encourage les achats plus fréquents.
 
-* Features:
-    * Enter customers into a draw for prizes after each purchase.
-    * Use Qr Code scanning for purchase validation and entry.
-    * Notify winners via WhatsApp or Telegram.
-* Use Case:
-    * After making a purchase, a customer scans a Qr Code to enter a draw. They are then notified via WhatsApp or Telegram if they win a prize.
+* Fonctionnalités :
+    * Faites participer les clients à un tirage au sort pour gagner des prix après chaque achat.
+    * Utilisez la lecture des codes Qr pour la validation et la saisie des achats.
+    * Notifier les gagnants via WhatsApp ou Telegram.
+* Cas d'utilisation :
+    * Après avoir effectué un achat, le client scanne un code Qr pour participer à un tirage au sort. Il est ensuite informé par WhatsApp ou Telegram s'il a gagné un prix.
