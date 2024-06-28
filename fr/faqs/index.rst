@@ -1,39 +1,39 @@
 General
 =========
-**Q: What is Sema?**
-A: Sema is an application designed for marketing a company's products and services through social networks like WhatsApp and Telegram.
+| **Q: Qu'est-ce que Sema ?**
+| R: Sema est une application conçue pour commercialiser les produits et services d'une entreprise par le biais de réseaux sociaux tels que WhatsApp et Telegram.
 
-**Q: Who can use Sema?**
-A: Companies that want to advertise their products and services, and their customers who use WhatsApp or Telegram.
+| **Q: Qui peut utiliser Sema ?**
+| R: Les entreprises qui souhaitent faire la publicité de leurs produits et services, et leurs clients qui utilisent WhatsApp ou Telegram.
 
 Bulk Message
 ================
-**Q: How many users can I send a message to at once?**
-A: You can send messages to thousands of users simultaneously using the Bulk Message module.
+| **Q: À combien d'utilisateurs puis-je envoyer un message en même temps ?**
+| R: À combien d'utilisateurs puis-je envoyer un message en même temps ?
 
-**Q: Can I schedule messages to be sent later?**
-A: Yes, you can schedule messages to be sent at specific times.
+| **Q: Puis-je programmer l'envoi des messages à une date ultérieure ?**
+| R: Oui, vous pouvez programmer l'envoi de messages à des heures précises.
 
-Chatboot
+Chatbot
 =============
-**Q: How does the Chatboot module work?**
-A: The Chatboot module allows you to create interactive scenarios to offer products and services to customers, who can place orders by interacting with a bot.
+| **Q: Comment fonctionne le module Chatbot ?**
+| R: Le module Chatbot vous permet de créer des scénarios interactifs pour offrir des produits et des services aux clients, qui peuvent passer des commandes en interagissant avec un robot.
 
-**Q: Can I customize the questions asked by the Chatboot?**
-A: Yes, you can fully customize the scenario and questions asked by the Chatboot.
+| **Q: Puis-je personnaliser les questions posées par le Chatbot ?**
+| R: Oui, vous pouvez entièrement personnaliser le scénario et les questions posées par le Chatbot.
 
 Loyalty Program
 =================
-**Q: How are rewards determined in the Loyalty Program?**
-A: Rewards are given after a customer makes a certain number of purchases, as defined by the company.
+| **Q: Comment les récompenses sont-elles déterminées dans le cadre du programme de fidélité ?**
+| R: Les récompenses sont accordées après qu'un client a effectué un certain nombre d'achats, défini par l'entreprise.
 
-**Q: How do customers track their purchases?**
-A: Customers scan a Qr Code after each purchase to track their progress towards a reward.
+| **Q: Comment les clients suivent-ils leurs achats ?**
+| R: Les clients scannent un code Qr après chaque achat pour suivre leur progression vers une récompense.
 
 Tombola
 ============
-**Q: How does the Tombola module work?**
-A: Customers enter a draw for prizes after each purchase by scanning a Qr Code.
+| **Q: Comment fonctionne le module Tombola ?**
+| R: Après chaque achat, les clients participent à un tirage au sort en scannant un code Qr.
 
-**Q: How are winners notified?**
-A: Winners are notified via WhatsApp or Telegram.
+| **Q: Comment les gagnants sont-ils informés ?**
+| R: Les gagnants sont informés par WhatsApp ou Telegram.

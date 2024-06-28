@@ -1,9 +1,9 @@
 Assistance
 ============
 
-For any issues, questions, or assistance, please contact our support team through the following methods:
+Pour tout problème, question ou assistance, veuillez contacter notre équipe d'assistance par les moyens suivants :
 
-* **Live Chat**: Access the Live Chat feature within the Sema user interface for real-time assistance.
+* **Live Chat**: Accédez à la fonction Live Chat dans l'interface utilisateur de Sema pour une assistance en temps réel.
 * **Email**: support@sema.com
 * **Phone**: +237-000-000-000
-Our support team is available 24/7 to help you with any questions or concerns you may have.
+Notre équipe d'assistance est disponible 24 heures sur 24 et 7 jours sur 7 pour répondre à toutes vos questions.
