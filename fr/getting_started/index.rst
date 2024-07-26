@@ -54,4 +54,4 @@ Pour devenir client et bénéficier des services offerts par Sema, suivez les é
     #. Tombola:
         * Ouvrez le module Tombola.
         * Configurez les paramètres du tirage au sort et la lecture du code Qr pour la validation des achats.
-        * Définissez les prix et informez les gagnants par WhatsApp ou Telegram.
+        * Définissez les prix et informez les gagnants par WhatsApp.

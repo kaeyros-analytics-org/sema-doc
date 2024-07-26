@@ -11,14 +11,14 @@ Overview
 
 .. image:: /images/landing.png
 
-Sema is a comprehensive application designed to facilitate the customer relationship management of a company's products and services through social networks. By leveraging popular messaging platforms like WhatsApp and Telegram, Sema enables companies to directly reach their customers' phones with targeted advertisements and interactive marketing campaigns.
+Sema is a comprehensive application designed to facilitate the customer relationship management of a company's products and services through social networks. By leveraging popular messaging platforms like WhatsApp, Sema enables companies to directly reach their customers' phones with targeted advertisements and interactive marketing campaigns.
 
 Sema has two primary types of users:
 
 #. **Companies**: Businesses that purchase Sema's services to advertise their products and services.
-#. **WhatsApp and Telegram Users**: The customers of the companies who receive advertisements and interact with the marketing campaigns.
+#. **WhatsApp Users**: The customers of the companies who receive advertisements and interact with the marketing campaigns.
 
-Sema provides an intuitive user interface for companies and integrates seamlessly with WhatsApp and Telegram for customer interactions.
+Sema provides an intuitive user interface for companies and integrates seamlessly with WhatsApp for customer interactions.
 
 .. toctree::
    :maxdepth: 2

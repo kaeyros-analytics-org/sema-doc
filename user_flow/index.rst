@@ -16,7 +16,7 @@ For Companies
     * Monitor customer interactions and order statuses.
     * Adjust campaigns based on feedback and performance data.
 
-For WhatsApp and Telegram Users
+For WhatsApp Users
 =================================
 
 #. Receiving Messages:

@@ -1,10 +1,10 @@
 General
 =========
 | **Q: What is Sema?**
-| A: Sema is an application designed for the customer relationship management and marketing a company's products and services through social networks like WhatsApp and Telegram.
+| A: Sema is an application designed for the customer relationship management and marketing a company's products and services through social networks like WhatsApp.
 
 | **Q: Who can use Sema?**
-| A: Companies that want to advertise their products and services, and their customers who use WhatsApp or Telegram.
+| A: Companies that want to advertise their products and services, and their customers who use WhatsApp.
 
 Bulk Message
 ================
@@ -36,4 +36,4 @@ Tombola
 | A: Customers enter a draw for prizes after each purchase by scanning a Qr Code.
 
 | **Q: How are winners notified?**
-| A: Winners are notified via WhatsApp or Telegram.
+| A: Winners are notified via WhatsApp.

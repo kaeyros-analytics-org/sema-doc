@@ -54,4 +54,4 @@ Step 3: Configure Sema Modules
     #. Tombola:
         * Open the Tombola module.
         * Configure the prize draw settings and the Qr Code scanning for purchase validation.
-        * Define the prizes and notify winners through WhatsApp or Telegram.
+        * Define the prizes and notify winners through WhatsApp.

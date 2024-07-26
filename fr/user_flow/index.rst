@@ -16,7 +16,7 @@ Pour les entreprises
     * Contrôler les interactions avec les clients et l'état des commandes.
     * Ajuster les campagnes en fonction du retour d'information et des données de performance.
 
-Pour les utilisateurs de WhatsApp et Telegram
+Pour les utilisateurs de WhatsApp
 =================================================
 
 #. Réception de messages :

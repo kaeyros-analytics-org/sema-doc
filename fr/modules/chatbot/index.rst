@@ -1,6 +1,6 @@
 .. image:: /images/chatbot.png
 
-Chatbot est un système automatisé qui facilite l'interaction entre l'entreprise et ses clients. Il permet aux entreprises de proposer des produits et des services aux clients et aux clients de passer des commandes via WhatsApp ou Telegram.
+Chatbot est un système automatisé qui facilite l'interaction entre l'entreprise et ses clients. Il permet aux entreprises de proposer des produits et des services aux clients et aux clients de passer des commandes via WhatsApp.
 
 * Fonctionnalités :
     .. image:: /images/scenario.png
