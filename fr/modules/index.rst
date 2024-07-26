@@ -1,4 +1,4 @@
-Sema se compose de quatre modules distincts, chacun traitant de différents aspects du marketing et de l'engagement des clients :
+Sema se compose de quatre modules distincts, chacun traitant de différents aspects de gestion de la relation client et de l'engagement des clients :
 
     #. Bulk Message
     #. Chatbot

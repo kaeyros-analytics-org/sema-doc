@@ -1,7 +1,7 @@
 General
 =========
 | **Q: What is Sema?**
-| A: Sema is an application designed for marketing a company's products and services through social networks like WhatsApp and Telegram.
+| A: Sema is an application designed for the customer relationship management and marketing a company's products and services through social networks like WhatsApp and Telegram.
 
 | **Q: Who can use Sema?**
 | A: Companies that want to advertise their products and services, and their customers who use WhatsApp or Telegram.
