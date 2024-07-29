@@ -55,3 +55,8 @@ Step 3: Configure Sema Modules
         * Open the Tombola module.
         * Configure the prize draw settings and the Qr Code scanning for purchase validation.
         * Define the prizes and notify winners through WhatsApp.
+
+    #. Dashboard:
+        * Access the Dashboard Analysis module.
+        * View statistics and reports on current activities, including Chatboot discussions, Bulk Message reports, and Loyalty Program reports.
+        * Monitor the progress of activities and contact customers for real-time feedback.

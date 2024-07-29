@@ -37,3 +37,11 @@ Tombola
 
 | **Q: How are winners notified?**
 | A: Winners are notified via WhatsApp.
+
+Dashboard
+============
+| **Q: What is the Dashboard Analysis module?**
+| A: The Dashboard Analysis module provides an overview of the company's activities, showing statistics on current activities, progress reports, and customer feedback.
+
+| **Q: What kind of reports can I view in the Dashboard Analysis module?**
+| A: You can view reports on Chatboot discussions and messages, Bulk Message campaigns, and Loyalty Program activities.

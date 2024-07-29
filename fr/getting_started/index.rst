@@ -1,4 +1,4 @@
-Aperçu général
+Prise en main
 ===============
 
 Pour devenir client et bénéficier des services offerts par Sema, suivez les étapes suivantes :
@@ -55,3 +55,8 @@ Pour devenir client et bénéficier des services offerts par Sema, suivez les é
         * Ouvrez le module Tombola.
         * Configurez les paramètres du tirage au sort et la lecture du code Qr pour la validation des achats.
         * Définissez les prix et informez les gagnants par WhatsApp.
+
+    #. Dashboard:
+        * Accédez au module Analyse du Tableau de Bord.
+        * Consultez les statistiques et les rapports sur les activités en cours, y compris les discussions du Chatboot, les rapports de Bulk Message, et les rapports du Programme de Fidélité.
+        * Surveillez la progression des activités et contactez les clients pour obtenir des retours en temps réel.

@@ -1,9 +1,10 @@
-Sema se compose de quatre modules distincts, chacun traitant de différents aspects de gestion de la relation client et de l'engagement des clients :
+Sema se compose de cinq modules distincts, chacun traitant de différents aspects de gestion de la relation client et de l'engagement des clients :
 
     #. Bulk Message
     #. Chatbot
     #. Loyalty Program
     #. Tombola
+    #. Dashboard
 
 Bulk Message
 ================
@@ -20,3 +21,7 @@ Loyalty Program
 Tombola
 ==========
 .. include:: tombola/index.rst
+
+Dashboard
+==========
+.. include:: dashboard/index.rst

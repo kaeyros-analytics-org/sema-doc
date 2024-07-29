@@ -37,3 +37,11 @@ Tombola
 
 | **Q: Comment les gagnants sont-ils informés ?**
 | R: Les gagnants sont informés par WhatsApp.
+
+Dashboard
+============
+| **Q: Qu'est-ce que le module Dashboard ?**
+| A: Le module d'analyse du tableau de bord donne une vue d'ensemble des activités de l'entreprise, en présentant des statistiques sur les activités en cours, des rapports sur l'état d'avancement et les commentaires des clients.
+
+| **Q: Quels types de rapports puis-je consulter dans le module Dashboard ?**
+| A: Vous pouvez consulter des rapports sur les discussions et les messages du Chatboot, les campagnes de messages groupés et les activités du programme de fidélisation.
